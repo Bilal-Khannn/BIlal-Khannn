@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Bilal Khan</h1>
 <img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
-- 🌱 I’m currently learning **Node.js**
-
 - 📫 How to reach me **bkhan8423@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
